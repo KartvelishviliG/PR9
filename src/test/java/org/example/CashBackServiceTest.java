@@ -44,5 +44,6 @@ public class CashBackServiceTest {
         int actual = service.remain(0);
         assertEquals(actual, expected);
     }
+
 }
 
